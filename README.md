@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kyalos
-- 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning UI/UX
+- 👀 I’m interested in Machine learning, Kubernetes and Money markets
+- 🌱 I’m currently learning UI/UX and Kubernetes
 - 📫 How to reach me kmarcelus92@gmail.com
 
 <!---
