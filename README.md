@@ -11,6 +11,6 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kyalos&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![Alt Text](https://media.giphy.com/media/h1usHXc3P8XD5fVjB0/giphy-downsized-large.gif)
