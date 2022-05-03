@@ -6,11 +6,17 @@
   </a>
     <br>
     <img src="https://komarev.com/ghpvc/?username=kyalos&style=flat-square&color=blue" alt=""/>
+    
+    <h1>
+  ```
+      Hi, I’m @kyalos
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+      ```
+</h1>
 </div>
 </div>
 
 ```
-- 👋 Hi, I’m @kyalos
 - 👀 I’m interested in Machine learning, Kubernetes and Money markets
 - 🌱 I’m currently learning UI/UX and Kubernetes
 - 📫 How to reach me kmarcelus92@gmail.com
