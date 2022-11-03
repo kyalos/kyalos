@@ -15,7 +15,7 @@
 
 ```
 - 👀 I’m interested in Machine learning, Kubernetes and Money markets
-- 🌱 I’m currently learning UI/UX and Kubernetes
+- 🌱 I’m currently learning Kubernetes
 - 📫 How to reach me kmarcelus92@gmail.com
 ```
 <!---
